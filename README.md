@@ -24,23 +24,25 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+-I learned the difference between committing and pushing and how to clone/update a repository.
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with cloning a repository took me a while to figure out what I needed to do, but eventually I understood the steps needed to take.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I need the instructor to help me with accessing the lab. At first I wasn't able to accept the assignment using Classroom 50, but after reaching out to the instructor I was able to start the lab.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I used the following link to help me with cloning a repository.
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I received help accessing the lab from Professor Dang. 
 
 ---
 ## Copyrights and License
